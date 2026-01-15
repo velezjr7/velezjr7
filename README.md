@@ -1,16 +1,49 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/banner.png" alt="velezjr7 banner" />
+</p>
 
-<!--
-**velezjr7/velezjr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Enrique 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/avatar.png" width="180" alt="avatar" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  💻 Software Engineer <br/>
+  🚀 Building & learning every day
+</p>
+
+---
+
+### 🧠 About Me
+
+- 💻 Software Engineer
+- ⚛️ React • JavaScript • TypeScript
+- 🐳 Docker • Docker Compose • Linux
+- 🌐 Networking • Security • SIEM
+- 🐍 Python • Django
+- 🤖 Machine Learning fundamentals
+- 🛠️ Git • GitHub • Linux environments
+
+---
+
+### ⚙️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,django,docker,linux,git,github" />
+</p>
+
+---
+
+### 📌 What I'm focused on
+
+- Building real-world projects
+- Improving architecture & clean code
+- Learning DevOps, Security & ML
+- Open to collaboration and challenges
+
+---
+
+### 📫 Let's connect
+
+- GitHub: **@velezjr7**
