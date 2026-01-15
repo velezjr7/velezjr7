@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/banner.png" alt="velezjr7 banner" />
+  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/info.png" alt="velezjr7 banner" />
 </p>
 
 <h1 align="center">Hi, I'm Enrique 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/avatar.png" width="180" alt="avatar" />
+  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/me.png" width="180" alt="avatar" />
 </p>
 
 <p align="center">
