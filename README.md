@@ -45,7 +45,8 @@ Frontend-focused Software Engineer who enjoys turning ideas into intuitive, scal
 
 ## 🛠️ Tools
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" /> Git  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" /> GitHub   
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" /> GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="25" /> GitLab 
 
 ---
 
