@@ -1,49 +1,74 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/info.png" alt="velezjr7 banner" />
+  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/info.png" alt="velezjr7 banner" width="180" height="180" />
 </p>
 
-<h1 align="center">Hi, I'm Enrique 👋</h1>
+# 👋 Hi, I'm Enrique
+
+### 🎨 Frontend-Oriented Software Engineer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/me.png" width="180" alt="avatar" />
 </p>
 
-<p align="center">
-  💻 Software Engineer <br/>
-  🚀 Building & learning every day
-</p>
+💻 I craft clean, responsive and user-focused interfaces  
+🚀 Learning by building real-world projects
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 💻 Software Engineer
-- ⚛️ React • JavaScript • TypeScript
-- 🐳 Docker • Docker Compose • Linux
-- 🌐 Networking • Security • SIEM
-- 🐍 Python • Django
-- 🤖 Machine Learning fundamentals
-- 🛠️ Git • GitHub • Linux environments
+Frontend-focused Software Engineer who enjoys turning ideas into intuitive, scalable and maintainable UI.  
+
+### ⚛️ Frontend
+- React  
+- JavaScript  
+- TypeScript  
+
+### 🎨 UI & UX
+- Component-based design  
+- Responsive layouts  
+
+### 🐳 Dev Environment
+- Docker  
+- Linux  
+
+### 🌐 Foundations
+- Networking  
+- Security basics  
+
+### 🐍 Backend
+- Python  
+- Django  
+
+### 🤖 AI
+- Machine Learning fundamentals  
+
+### 🛠️ Tools
+- Git  
+- GitHub  
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,django,docker,linux,git,github" />
-</p>
-
----
-
-### 📌 What I'm focused on
-
-- Building real-world projects
-- Improving architecture & clean code
-- Learning DevOps, Security & ML
-- Open to collaboration and challenges
+### 🎯 Current Focus
+- 🎨 Building modern and accessible UIs  
+- ⚛️ Mastering React & component architecture  
+- 🧩 Writing clean, reusable frontend code  
+- 🚀 Improving performance & UX  
+- 🐳 Using Docker for consistent dev environments  
 
 ---
 
-### 📫 Let's connect
+## 📌 What Defines My Work
+- Clean and readable code  
+- Reusable components  
+- User-first mindset  
+- Continuous learning  
+- Real-world projects over tutorials  
+
+---
+
+## 📫 Let's Connect
 
 - GitHub: **@velezjr7**
