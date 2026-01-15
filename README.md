@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/info.png" alt="velezjr7 banner" width="180" height="180" />
+  <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/info.png" alt="velezjr7 banner" width="500" height="500" />
 </p>
 
 # 👋 Hi, I'm Enrique
 
-### 🎨 Frontend-Oriented Software Engineer
+### 🎨 Software Engineer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/me.png" width="180" alt="avatar" />
@@ -19,33 +19,33 @@
 
 Frontend-focused Software Engineer who enjoys turning ideas into intuitive, scalable and maintainable UI.  
 
-### ⚛️ Frontend
-- React  
-- JavaScript  
-- TypeScript  
+## ⚛️ Frontend
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" /> React  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" /> JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" /> TypeScript  
 
-### 🎨 UI & UX
-- Component-based design  
-- Responsive layouts  
+## 🎨 UI & UX
+- 🎨 Component-based design  
+- 📱 Responsive layouts  
 
-### 🐳 Dev Environment
-- Docker  
-- Linux  
+## 🐳 Dev Environment
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25" /> Docker  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" /> Linux  
 
-### 🌐 Foundations
-- Networking  
-- Security basics  
+## 🌐 Foundations
+- 🌐 Networking  
+- 🔒 Security basics  
 
-### 🐍 Backend
-- Python  
-- Django  
+## 🐍 Backend
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> Python  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25" /> Django  
 
-### 🤖 AI
-- Machine Learning fundamentals  
+## 🤖 AI
+- 🤖 Machine Learning fundamentals  
 
-### 🛠️ Tools
-- Git  
-- GitHub  
+## 🛠️ Tools
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" /> Git  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" /> GitHub   
 
 ---
 
