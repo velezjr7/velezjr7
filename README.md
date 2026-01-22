@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Enrique
 
-### 🎨 Software Engineer
+### 🎨 Intelligent Computing Engineering
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/velezjr7/velezjr7/main/assets/me.png" width="180" alt="avatar" />
