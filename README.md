@@ -20,6 +20,7 @@
 Frontend-focused Software Engineer who enjoys turning ideas into intuitive, scalable and maintainable UI.  
 
 ## ⚛️ Frontend
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="25" /> Angular
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" /> React  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" /> JavaScript  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" /> TypeScript  
